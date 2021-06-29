@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # These are some examples of commonly ignored file patterns.
 # You should customize this list as applicable to your project.
 # Learn more about .gitignore:
@@ -48,3 +49,14 @@ Thumbs.db
 *.mov
 *.wmv
 
+=======
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+>>>>>>> 3eb38fdd (Hello world, this is Dawn :))
