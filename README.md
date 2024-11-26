@@ -2,12 +2,14 @@
 
 ## NAE Shopify Store
 
+### Connect with NAE-Erboristeria
+
 ```bash
 shopify theme dev --store nae-erboristeria
 
 ```
 
-Preview Link:
+### Preview Link:
 
 https://nae-erboristeria.myshopify.com/?preview_theme_id=145170104549
 
@@ -27,10 +29,6 @@ brew install shopify-cli
 ```
 
 https://shopify.dev/docs/api/shopify-cli
-
-
-
-
 
 
 ## Dawn
