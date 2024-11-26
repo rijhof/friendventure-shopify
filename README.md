@@ -3,11 +3,15 @@
 ## NAE Shopify Store
 
 ```Connect with livestore
+
 shopify theme dev --store nae-erboristeria
+
 ```
 
 ```Theme Preview
+
 https://nae-erboristeria.myshopify.com/?preview_theme_id=145170104549
+
 ```
 
 ## Requirements
@@ -16,9 +20,11 @@ https://nae-erboristeria.myshopify.com/?preview_theme_id=145170104549
 ### Shopify CLI
 
 ```bash
+
 # Only for macOS
 brew tap shopify/shopify
 brew install shopify-cli
+
 ```
 https://shopify.dev/docs/api/shopify-cli
 
